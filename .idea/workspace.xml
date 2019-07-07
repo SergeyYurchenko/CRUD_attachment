@@ -9,9 +9,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/testgroup/filmography/config/DAOConfig.java" line="57" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cb2192f-37bc-4e48-8d06-7f5b820447ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1cb2192f-37bc-4e48-8d06-7f5b820447ea" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +43,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/testgroup/filmography/config/AppInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="493">
               <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -202,7 +200,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -346,7 +344,7 @@
       <updated>1561918810054</updated>
       <workItem from="1561918821280" duration="57320000" />
       <workItem from="1562259989207" duration="52534000" />
-      <workItem from="1562511059899" duration="20238000" />
+      <workItem from="1562511059899" duration="20620000" />
     </task>
     <task id="LOCAL-00001" summary="first variable without database">
       <created>1561918931666</created>
@@ -446,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562535556846</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="final variant">
+      <created>1562536160218</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1562536160218</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -464,10 +469,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130135000" />
+    <option name="totallyTimeSpent" value="130517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1487" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Persistence" order="0" sideWeight="0.502" side_tool="true" weight="0.29292223" />
       <window_info id="Image Layers" order="1" />
@@ -481,15 +487,15 @@
       <window_info anchor="bottom" id="Spring" order="0" weight="0.3297587" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49894884" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5017519" side_tool="true" visible="true" weight="0.49865952" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5017519" side_tool="true" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.3297587" />
       <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49894884" weight="0.3297587" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49824807" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49824807" visible="true" weight="0.49865952" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49824807" weight="0.49865952" />
       <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
@@ -831,7 +837,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testgroup/filmography/config/AppInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="493">
           <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
